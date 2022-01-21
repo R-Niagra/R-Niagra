@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @R-Niagra
-- 👀 I’m interested in distributed systems.
-- 🌱 I’m currently working on novel ways to scale blockchain systems.
+- 👀 Super interested in distributed systems.
+- 🌱 Currently working on novel ways to scale blockchain systems.
 - 📫 You can reach me at rizwan.shahid@uwaterloo.ca
 
 <!---
